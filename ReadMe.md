@@ -1,5 +1,5 @@
 # 💫 About Me:
-Exercer resoluções praticas para desenvolvimentos web<br>🎨Desenvolvedor web<br>🤠Perfil em construção<br><br>Preso pela forma mais eficiente e prática para fins de melhoramento de uso para o cliente.
+Exercer resoluções praticas para desenvolvimentos web<br>🎨Desenvolvedor web<br>🤠Perfil em construção<br><br>Prezo pela forma mais eficiente e prática para fins de melhoramento de uso para o cliente.
 
 
 ## 🌐 Socials:
