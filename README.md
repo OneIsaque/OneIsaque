@@ -1,6 +1,7 @@
 <!-- Cabeçalho -->
 
 # 👋 Apresentação
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-yes-green)
 
 <p align="center">
   <img width="200px" alt="say hi" src="https://media.tenor.com/YbeueCPsUHEAAAAC/hello-wave.gif">
@@ -10,34 +11,41 @@
 🔎<b>ISAQUE JOÂO P.</b>🔍
 </p>
 
+
 <p align="center">
 Olá! Sou Isaque João P., estudante de <b>Análise e Desenvolvimento de Sistemas</b> na UNINASSAU.  
-Hoje em dia estou estudando bastante sobre <b>Python e banco de dados(SQL)</b>. Estou amplamente aberto a novas experiências, aprender e por em prática.  
+Hoje em dia estou estudando bastante sobre <b>Python e banco de dados(SQL)</b>. Estou amplamente aberto a novas experiências, aprender e pô-las em prática.  
 </p>
+
 
 ---
 
 <div align="center">
+  <p><b>Status no GitHub</b></p>
+  <!-- Estatísticas gerais: commits, PRs, issues, etc. -->
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api?username=OneIsaque&show_icons=true&count_private=true&theme=nightowl&locale=pt-br" />
+  <br><!-- Top linguagens usadas -->
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneIsaque&layout=compact&count_private=false&theme=nightowl&locale=pt-br" />
 
-  <p><b> Status no GitHub</b></p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneIsaque&layout=compact&count_private=true&theme=moltack&locale=pt-br"/>
-</div>  
-  
+
+
 ---
 
 ## Sobre Mim
 
-<div align="left">
+<div align="center">
   
-  </a>
   <a href="isaqueinta08@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail&logoColor=black&labelColor=c16fd8">
   </a>
-  </a>
+
   <a href="https://www.linkedin.com/in/isaque-jo%C3%A3o-59b466263/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&labelColor=black&labelColor=c16fd8" >
   </a>
-</div>
+
+  
 
 - 📖 Estudando Python e SQL  
 - 🔭 Procurando uma vaga de <b>Estágio</b> Front-End e em Dados; <b>Desenvolvimento WEB</b> 
@@ -48,9 +56,9 @@ Hoje em dia estou estudando bastante sobre <b>Python e banco de dados(SQL)</b>. 
 ---
 ## Trajetória
 
-<p>👦Começei na progamação à fim como hobbie quando tinha 16 anos. Na época eu estava estudando Java básico ao Avançado, Orientado a Objetos, pela Ûdemy - no entanto, não concluí por motivos de saúde
+<p>👦Começei na progamação à fim como hobbie quando tinha 16 anos. Na época eu estava estudando Java básico ao Avançado, Orientado a Objetos, pela Ûdemy.
 
-💁‍♂️Aprendi final do ano passado a usar HTML5, CSS e JavaScript - coisas básicas em JS
+💁‍♂️Aprendi final do ano passado a usar HTML5, CSS e JavaScript - funções básicas em JS
 
 🧍‍♂️Por fim, de todas as coisas que estudei, confeço que sempre precisamos aprender mais, estou mais determinado a seguir com a área de tecnologia.
 
@@ -59,16 +67,23 @@ Hoje em dia estou estudando bastante sobre <b>Python e banco de dados(SQL)</b>. 
 
 ## 🎓Faculdade e Cursos 
 
-<div align="left">
-  <img alt="Curso" src="https://img.shields.io/badge/Análise%20e%20Desenvolvimento%20de%20Sistemas-black?style=for-the-badge&logo=gitbook&logoColor=black&labelColor=c16fd8">
-
-  <p>
-    <img alt="Período" src="https://img.shields.io/badge/2%C2%BA_Período-black?style=black&labelColor=9d62ae">
-  </p>
-  <img alt="Curso" src="https://img.shields.io/badge/Scrum Fundamentals-black?style=for-the-badge&logo=Color=black&labelColor=c16fd8">
-  <img alt="Curso" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Color=black&labelColor=c16fd8">
-  <img alt="Curso" src="https://img.shields.io/badge/Desenvolvimento Web-black?style=for-the-badge&logo=Color=black&labelColor=c16fd8">
-  </div>
+<table align="center">
+  <tr>
+    <td align="left">
+      <img alt="Curso" src="https://img.shields.io/badge/Análise%20e%20Desenvolvimento%20de%20Sistemas-black?style=for-the-badge&logo=gitbook&logoColor=black&labelColor=c16fd8"><br>
+      <img alt="Período" src="https://img.shields.io/badge/2%C2%BA_Período-black?style=black&labelColor=9d62ae">
+    </td>
+    <td>
+      <img alt="Scrum Fundamentals" src="https://img.shields.io/badge/Scrum%20Fundamentals-black?style=for-the-badge&logo=Color=black&labelColor=c16fd8">
+    </td>
+    <td>
+      <img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Color=black&labelColor=c16fd8">
+    </td>
+    <td>
+      <img alt="Desenvolvimento Web" src="https://img.shields.io/badge/Desenvolvimento%20Web-black?style=for-the-badge&logo=Color=black&labelColor=c16fd8">
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -88,7 +103,7 @@ Hoje em dia estou estudando bastante sobre <b>Python e banco de dados(SQL)</b>. 
 
 ## 🧏‍♂️Soft Skills
 
-<div align="left">
+<div align="center">
   <img alt="Trabalho em Equipe" src="https://img.shields.io/badge/Trabalho em Equipe-purple?style=for-the-badge&logo=&logoColor=black&labelColor=9d62ae">
   <img alt="Comunicativo" src="https://img.shields.io/badge/Comunicativo-black?style=for-the-badge&logo=&logoColor=black&labelColor=9d62ae">
   <img alt="Curioso" src="https://img.shields.io/badge/Curioso-purple?style=for-the-badge&logo=&logoColor=black&labelColor=9d62ae">
