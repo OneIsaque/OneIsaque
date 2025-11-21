@@ -51,7 +51,7 @@ Hoje em dia estou estudando bastante sobre <b>Python e banco de dados(SQL)</b>. 
 - 🔭 Procurando uma vaga de <b>Estágio</b> Front-End e em Dados; <b>Desenvolvimento WEB</b> 
 - 🎓 Graduando em Analise e Desenvolvimento de Sistemas (2º de 4 semestres)
 - 🎶 Ouvinte musical eclético
-- 📫 Contato: isaquejprereira8@gmail.com  
+- 📫 Contato: isaqueinta08@gmail.com  
 
 ---
 ## Trajetória
